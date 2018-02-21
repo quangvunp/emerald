@@ -89,3 +89,5 @@ $$
     \end{array} \right)
 \end{align*}
 $$
+
+$$frac{a}{b} = 1
