@@ -39,7 +39,6 @@ end
 Last, a Julia example:
 
 {% highlight julia linenos %}
-
 function hello()
   print("Hello World!")
 end
@@ -49,21 +48,13 @@ type CamClay
   b::Vector{Int}
 end
 
-
 """
 Elastic 
 \alpha + \beta = 1
 """
-
-#Elastic 
-#\alpha + \beta = 1
-
-
-
 function De(model::CamClay, x::Int)
   return ones(1,4)
 end 
-
 {% endhighlight %}
 
 
@@ -93,6 +84,6 @@ $$
 
 $$\frac{a}{b} = 1$$
 
-$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
+$$\frac{(n^2+n)(2n+1)}{6}$$
 
 $$\frac{(n^2+n)(2n+1)}{6}$$
