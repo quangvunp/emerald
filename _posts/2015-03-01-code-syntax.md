@@ -48,4 +48,8 @@ struct CamClay
   b::Vector{Int}
 end 
 
+function De(model::CamClay, x::Int)
+  return ones(1,4)
+end 
+
 {% endhighlight %}
