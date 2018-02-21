@@ -90,7 +90,7 @@ $$
 \end{align*}
 $$
 
-$$frac{a}{b} = 1
+$$\frac{a}{b} = 1$$
 
 $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
 $$\frac{(n^2+n)(2n+1)}{6}$$
