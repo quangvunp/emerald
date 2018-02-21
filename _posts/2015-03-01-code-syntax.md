@@ -66,14 +66,14 @@ end
 
 {% endhighlight %}
 
-```
+
 $$ 5 + 5 $$
 
 
 \$$ 5 + 5 $$
 
 $$ a^2 + b^2 = c^2 $$
-```
+
 $$
 \begin{align*}
   & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
@@ -93,5 +93,6 @@ $$
 
 $$\frac{a}{b} = 1$$
 
-$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
+$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
+
 $$\frac{(n^2+n)(2n+1)}{6}$$
