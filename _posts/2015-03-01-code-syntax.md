@@ -34,3 +34,9 @@ def hello
 end
 
 {% endhighlight %}
+
+Last, a Julia example: {% highlight julia linenos %}
+
+function hello() print("Hello World!") end
+
+{% endhighlight %}
