@@ -57,6 +57,8 @@ Elastic
 #Elastic 
 #\alpha + \beta = 1
 
+
+
 function De(model::CamClay, x::Int)
   return ones(1,4)
 end 
@@ -65,3 +67,6 @@ end
 
 
 $$ 5 + 5 $$
+
+
+\$$ 5 + 5 $$
