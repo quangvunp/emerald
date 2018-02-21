@@ -48,9 +48,15 @@ struct CamClay
   b::Vector{Int}
 end
 
+
 """
 Elastic 
+\alpha + \beta = 1
 """
+
+#Elastic 
+#\alpha + \beta = 1
+
 function De(model::CamClay, x::Int)
   return ones(1,4)
 end 
