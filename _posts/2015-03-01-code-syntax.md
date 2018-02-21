@@ -43,4 +43,9 @@ function hello()
   print("Hello World!")
 end
 
+struct CamClay
+  a::Int
+  b::Vector{Int}
+end 
+
 {% endhighlight %}
