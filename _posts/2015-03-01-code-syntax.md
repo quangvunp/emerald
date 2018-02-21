@@ -43,7 +43,7 @@ function hello()
   print("Hello World!")
 end
 
-struct CamClay
+type CamClay
   a::Int
   b::Vector{Int}
 end
