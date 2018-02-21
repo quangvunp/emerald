@@ -44,12 +44,12 @@ function hello()
 end
 
 struct CamClay
-  a::Int
-  b::Vector{Int}
+ a::Int
+ b::Vector{Int}
 end 
 
 function De(model::CamClay, x::Int)
-  return ones(1,4)
+ return ones(1,4)
 end 
 
 {% endhighlight %}
