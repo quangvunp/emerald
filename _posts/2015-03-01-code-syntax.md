@@ -87,3 +87,11 @@ $$\frac{a}{b} = 1$$
 $$\frac{(n^2+n)(2n+1)}{6}$$
 
 $$\frac{(n^2+n)(2n+1)}{6}$$
+
+```python
+import random
+
+# Roll the die
+roll = random.randint(1, 20)
+print('You rolled a %d.' % roll)
+``` #REMOVE
